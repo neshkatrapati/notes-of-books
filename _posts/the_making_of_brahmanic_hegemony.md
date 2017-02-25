@@ -1,4 +1,13 @@
-# The making of brahmanic hegemony
+---
+layout:     post
+title:      The Making Of Brahmanic Hegemony
+date:       2017-02-25
+author:     Ganesh Katrapati
+categories: caste
+---
+
+
+ 
 ## Author : Suvira Jaiswal 
 
 ## Introduction 
