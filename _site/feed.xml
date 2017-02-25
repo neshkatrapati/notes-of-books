@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amble</title>
+    <description>Leisurely Rumblings of a Crazy Mind</description>
+    <link>http://neshkatrapati.github.io/</link>
+    <atom:link href="http://neshkatrapati.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 19 Dec 2015 19:59:15 +0530</pubDate>
+    <lastBuildDate>Sat, 19 Dec 2015 19:59:15 +0530</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>A Language&#39;s Path Towards Oblivion</title>
+        <description>&lt;p&gt;I consider myself a bilingual. My mother tongue is telugu and english, I have learnt because it is the medium of education in all the schools I have been in. In these schools, students were chided for speaking languages other than english even outside of the class hours. Sometimes we also had to pay a fine for doing so. English was very ingrained and very much indispensible.&lt;/p&gt;
+
+&lt;p&gt;As I grew up, the importance of learning and being fluent with &amp;#39;The global language&amp;#39; grew. We had two full courses in &amp;#39;English communication skills&amp;#39; in our undergraduate syllabus. English is the defacto language of work. Reading english books over telugu, was &amp;#39;cooler&amp;#39;. Being the medium of education, work and also the language in which the highest amount of resources are available, English has a different distribution viz the mother tongue.&lt;/p&gt;
+
+&lt;p&gt;One speaks English at formal places and mother tongue at informal places. This distribution, when it becomes extreme as it did in my case, quickly leads to English as the language of &lt;em&gt;formal thought and conversation&lt;/em&gt; and the other language as the one for &lt;em&gt;informal conversation&lt;/em&gt;. While one feels &lt;em&gt;warmth and comfort&lt;/em&gt; conversing with mother tongue, one feels &lt;em&gt;assertive, precise etc&lt;/em&gt; in English.&lt;/p&gt;
+
+&lt;p&gt;You might say, why should one care ?. Why should we care if a language is dying ?. Because language is a reflection of culture. Language is a spectacular form of communication, with such levels of ambiguity only to be comprehended by a community sharing not just the language and all its shebang, but also culture. It is like a low-dimensional representation of a high-dimensional thought process.&lt;/p&gt;
+
+&lt;p&gt;So, when an important aspect of thought/conversation (the formal one, the important one) is encroached upon by a language which does not share a cultural connection with your mother tongue, you lose a big part of the culture that is embodied in it and shift your cultural gear to the new language - English.&lt;/p&gt;
+
+&lt;p&gt;A language is &lt;em&gt;active&lt;/em&gt; when novel uses of existing words and constructions are being made and found. Act of &amp;#39;languaging&amp;#39; is a marriage between what you want to say and what you can say (syntactic, semantic allowance of the language). For example, although &amp;#39;tOlu&amp;#39; in telugu is used in the context of a bullock cart (&amp;#39;toy&amp;#39; =~ &amp;#39;push&amp;#39;) it is also used to mean &amp;#39;drive a car&amp;#39;. To create these novel uses, new concepts must come into the communities&amp;#39; conscious. These can either come externally (almost always since we are not creating new things, we import them from the rest of the world) or internally (when the invention/innovation happens in the community).&lt;/p&gt;
+
+&lt;p&gt;If all formal thought happens in languages which aren&amp;#39;t the mother tongue, we become incapable to create these novel uses in the mother tongue because we neither have the vocabulary nor are we aquainted with this process. If this continues, English will become the &lt;em&gt;active&lt;/em&gt; language in our life because, it will allow you greater control over &lt;em&gt;what you can say&lt;/em&gt; than the mother tongue which now takes a back seat. It will become increasingly complex to expess these new concepts in the mother tongue.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 19 Dec 2015 00:00:00 +0530</pubDate>
+        <link>http://neshkatrapati.github.io/language/2015/12/19/of-some-bilinguals-problems/</link>
+        <guid isPermaLink="true">http://neshkatrapati.github.io/language/2015/12/19/of-some-bilinguals-problems/</guid>
+        
+        <category>language</category>
+        
+        <category>mother_tongue</category>
+        
+        
+        <category>language</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Carte Noire</title>
+        <description>&lt;p&gt;Welcome to Carte Noire.&lt;/p&gt;
+
+&lt;p&gt;Carte Noire began as a new theme for &lt;a href=&quot;http://www.jacobtomlinson.co.uk/&quot;&gt;my personal blog&lt;/a&gt;, but has now taken
+on a life of its own as a free theme for Jekyll.&lt;/p&gt;
+
+&lt;p&gt;The theme has been designed with simplicity and readability in mind. It makes
+use of third party services such as Disqus ad AddThis to ensure the blog has
+all the features you would expect from a dynamic application such as Wordpress
+but with the hosting and maintenance simplicity of Jekyll.&lt;/p&gt;
+
+&lt;p&gt;Please use/copy/share Carte Noire!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Mar 2015 21:01:19 +0530</pubDate>
+        <link>http://neshkatrapati.github.io/jekyll/2015/03/23/welcome-to-carte-noir/</link>
+        <guid isPermaLink="true">http://neshkatrapati.github.io/jekyll/2015/03/23/welcome-to-carte-noir/</guid>
+        
+        <category>welcome</category>
+        
+        <category>to</category>
+        
+        <category>carte</category>
+        
+        <category>noire</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
